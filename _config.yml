@@ -10,6 +10,10 @@ languageNames:
   ru: Russian
   en: English
 
+include: ['assets','README.md']
+
+exclude: ["Gemfile","Gemfile.lock"]
+
 theme: jekyll-theme-hacker
 
 gems:
