@@ -1,0 +1,20 @@
+markdown: kramdown
+highlighter: rouge
+repository: morrotes/morrotes.github.io
+url: http://morrotes.github.io
+
+languages: ["ru", "en"]
+exclude_from_localizations: ["assets", "CNAME"]
+defaultLang: ru
+languageNames:
+  ru: Russian
+  en: English
+
+gems:
+  - jekyll-multiple-languages-plugin
+  - jekyll-feed
+  - jekyll-redirect-from
+  - jemoji
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-mentions
