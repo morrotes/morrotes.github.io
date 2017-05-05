@@ -10,6 +10,8 @@ languageNames:
   ru: Russian
   en: English
 
+theme: jekyll-theme-hacker
+
 gems:
   - jekyll-multiple-languages-plugin
   - jekyll-feed
